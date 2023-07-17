@@ -1,8 +1,8 @@
 ## MY DATA
-NATIONAL TEACHERS COLLEGE
-629 Nepomuceno St, Quiapo, Manila, 1001 Metro Manila
-RALPH IVAN B. GIDUCOS
-8201717@ntc.edu.ph
+-NATIONAL TEACHERS COLLEGE
+-629 Nepomuceno St, Quiapo, Manila, 1001 Metro Manila
+-RALPH IVAN B. GIDUCOS
+-8201717@ntc.edu.ph
 
 ## Solidity-Activity
 the characteristic, condition, or status of being solid. A weak argument lacks substance, firmness, and substantiality.This activity is from meta crafter which is an introduction to programming about solidity which gives you an introduction to how to use it. here you can also learn how to program it which can give you learning knowldege in your life
